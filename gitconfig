@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = miquelespinosa2@gmail.com
+	name = Miquel Espinosa
